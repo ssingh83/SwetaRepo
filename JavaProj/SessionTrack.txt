@@ -1,0 +1,4 @@
+#	Date	Duration	TotalHours	Contents Covered
+1	27/02	10:30-12am		1.5			Assignemnts
+2	03/03	11am -12pm		2.5			Data types and Git repository creation and setup
+3	04/03	11am-12pm		3.5			Variable and function types, Class and Objects 
